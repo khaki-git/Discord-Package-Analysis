@@ -1,0 +1,5 @@
+customtkinter~=5.2.2
+pillow~=10.2.0
+CTkMessagebox~=2.7
+future~=1.0.0
+art~=6.2
